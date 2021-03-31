@@ -145,7 +145,7 @@ The following describes the high level approach for training a abbreviation dete
 1. For abbreviations detected by model in test set, find the expanded form using the abbreviation dictionary
 1. Apply this expansion to the prediction of model 1: POI/street model
 
-# Areas for improvement
+## Areas for improvement
 
 1. As each abbreviation can be mapped to multiple expansion from the training data, we decided to pick the expansion with the highest frequency to convert the abbreviation in the test data.
    - We could have find ways to determine the most suitable expansion for each abbreviation in a more probablistic manner, perhaps by considering the surrounding words
@@ -154,6 +154,6 @@ The following describes the high level approach for training a abbreviation dete
    - We could explore different pretrained models that are trained on Bahasa Indonesia corpus
    - Then combine each individual model's prediction to obtain the final prediction
 
-# Reference
+## Reference
 
 - [Huggingface Transformers](https://huggingface.co/transformers/)
