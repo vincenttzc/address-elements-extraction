@@ -1,6 +1,6 @@
 # Address Element Extraction
 
-In this project, we aim to share the approach which our team took that got us into the top 4% on the leaderboard of the Shopee Code League 2021: Address Element Extraction competition. The result can be found [here](https://www.kaggle.com/vincenttzc/competitions).
+In this project, we aim to share the approach which we took that got us into the top 4% on the leaderboard of the Shopee Code League 2021: Address Element Extraction competition. The result can be found [here](https://www.kaggle.com/vincenttzc/competitions).
 
 The team consists of:
 
