@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="img/marisa-harris-D3ou1GEdYI4-unsplash.jpg" width=100%/>
-  <br>
-  <i>Photo by <a href="https://unsplash.com/@marisa_harris?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marisa Harris</a> on <a href="https://unsplash.com/s/photos/house?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  </i>
-</p>
 # Address Element Extraction
 
 In this project, we aim to share the approach which our team took that got us into the top 4% on the leaderboard of the Shopee Code League 2021: Address Element Extraction competition. The result can be found [here](https://www.kaggle.com/vincenttzc/competitions).
@@ -14,6 +8,13 @@ The team consists of:
 - Mengyong Lee | [LinkedIn](https://www.linkedin.com/in/mylee1/) | [Github](https://github.com/mylee16)
 - Zi Yi Ewe | [LinkedIn](https://www.linkedin.com/in/zi-yi-ewe/)
 - Vincent Tan | [LinkedIn](https://www.linkedin.com/in/vincenttzc/) | [Github](https://github.com/vincenttzc)
+
+<p align="center">
+  <img src="img/marisa-harris-D3ou1GEdYI4-unsplash2.jpg" width=100%/>
+  <br>
+  <i>Photo by <a href="https://unsplash.com/@marisa_harris?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marisa Harris</a> on <a href="https://unsplash.com/s/photos/house?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </i>
+</p>
 
 ## Table of contents
 
