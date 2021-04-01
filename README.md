@@ -155,5 +155,5 @@ The following describes the high level approach for training a abbreviation dete
    - Then combine each individual model's prediction to obtain the final prediction
 
 ## Reference
-- [Competition Link](https://www.kaggle.com/c/scl-2021-ds/overview)
 - [Huggingface Transformers](https://huggingface.co/transformers/)
+- [Competition Link](https://www.kaggle.com/c/scl-2021-ds/overview)
